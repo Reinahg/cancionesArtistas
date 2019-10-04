@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="yes"?>
+<Tipos>
+  <Tipo>Banda</Tipo>
+  <Tipo>Solista</Tipo>
+  <Tipo>Grupo</Tipo>
+  <Tipo>Duo</Tipo>
+  <Tipo>Trio</Tipo>
+</Tipos>
